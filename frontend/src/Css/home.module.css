@@ -1,0 +1,12 @@
+.home_banner{
+    background-image: url(../Images/homebanner.png);
+    height: 645px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about_banner{
+    background-image: url(../Images/aboutbanner.png);
+    height: 475px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
